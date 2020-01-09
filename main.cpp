@@ -3,6 +3,12 @@
 #include<string>
 #include "list.h"
 #include "square_templ"
+/*
+Трофимов М.А
+вариант 10
+список квадратов
+*/
+
 
 void print_menu(){
 	std::cout
